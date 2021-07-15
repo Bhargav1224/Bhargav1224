@@ -14,7 +14,7 @@ I am Bhargav Reddy. I'm a full stack web developer who is passionate about makin
 </br>
  <p align='center'>
   <br/>
-   <a href="https://bhargav1224portfolio.vercel.app/">
+   <a href="https://bhargavreddykudalaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/portfolio-%237289DA.svg?&style=for-the-badge&logo=reddit&logoColor=white" />
   </a>&nbsp;&nbsp;
  
