@@ -88,7 +88,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href = "https://www.linkedin.com/in/bhargav-kudala/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://www.instagram.com/bhargavreddy.k/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <!-- <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
