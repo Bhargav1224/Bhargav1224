@@ -24,7 +24,7 @@
 
 🥅 **2021 Goals :** Learning new things and contribute more
 
-<!-- 📫 You can reach me at [chat](mailto:mangeshbkwsu@gmail.com)! -->
+<!-- 📫 You can reach me at [chat](mailto:bhargavkudala@gmail.com)! -->
 
 
 ## 🚀 Languages and Tools:
