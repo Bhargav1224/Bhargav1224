@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently lokking for the full stack web developer position :** Full Stack Web Development
+🌱 **I’m currently looking for the full stack web developer position :** Full Stack Web Development
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
