@@ -73,15 +73,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhargav1224&show_icons=true&locale=en" alt="Bhargav1224" /></p> -->
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/Bhargav1224/github-readme-activity-graph"><img alt="Bhargav Reddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhargav1224&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 ## Connect with me:
 <p align="left">
