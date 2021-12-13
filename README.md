@@ -16,11 +16,11 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 **I’m currently looking for the full stack web developer position :** Full Stack Web Development
+🌱 **Full Stack Web Developer **
 
 🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
 
-💬 **Ask me about :** Data Structures and Algorithms, JavaScript, React and MongoDb
+💬 **Ask me about :** Data Structures and Algorithms, JavaScript, TypeScript, React, Node Js, MongoDb, Express Js, MySql and sequelize
 
 🥅 **2021 Goals :** Learning new things and contribute more
 
